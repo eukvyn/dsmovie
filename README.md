@@ -29,3 +29,7 @@ DSMovie é uma aplicação full stack web construída durante a 1ª edição da 
 Feito por: Kevin Almeida | [<a href="https://www.linkedin.com/in/kevin-almeida-desenvolvedor/">Veja meu Linkedin</a>]
 <br>
 Créditos: DevSuperior | [<a href="https://www.youtube.com/c/DevSuperior">Veja o canal do youtube da DevSuperior</a>]
+
+# Certificado
+
+![Certificate](certificate-sds-devsuperior.png)
